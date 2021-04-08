@@ -1,9 +1,9 @@
 /**/
 .fundo{
 
-  background-image: linear-gradient(cyan,whit; 
+  background-image:white;    
   height: 100%;
-  font-family: Bradley Hand, cursive;
+  font-family:Arial, Helvetica, sans-serif;  
   text-align: center;
   
 }
@@ -27,7 +27,7 @@
   background-color: (31,31,31);
   border: none;
   color: #fff;
-  font-family:Bradley Hand, cursive;
+   font-family:Arial, Helvetica, sans-serif;
 }
 .botao:hover{
   background-color: magenta;
